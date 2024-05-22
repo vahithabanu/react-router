@@ -63,6 +63,16 @@ Refer to https://reactrouter.com/en/main for any help or guidance on React Route
 
 
 
+ ![output screenshot](./src/assets/fullstack.png)
+
+ 
+ ![output screenshot](./src/assets/datascience.png)
+
+ 
+ ![output screenshot](./src/assets/cyber.png)
+
+ 
+ ![output screenshot](./src/assets/career.png)
 
 
 
