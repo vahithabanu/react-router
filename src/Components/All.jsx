@@ -1,8 +1,5 @@
 import React from 'react'
-import FullStackDevelopment from './FullStackDevelopment'
-import CyberSecurity from './CyberSecurity'
-import DataScience from './DataScience'
-import Career from './Career';
+
 const All = () => {
   return (
     
